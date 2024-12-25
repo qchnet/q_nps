@@ -85,5 +85,5 @@ If you need to register to the system service, you can check [Register to the sy
 - The project is under development, and there is still a lot of room for improvement. If you can contribute code, please submit PR to the dev branch.
 - If there is feedback on new features, you can feedback via issues or qq group.
 
-### new
-- 测试1
+### qc
+- 在WEB页面中添加下载客户端连接，方便使用
